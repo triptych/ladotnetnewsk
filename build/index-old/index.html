@@ -12,10 +12,10 @@
 		<link rel="modulepreload" href="/./_app/start-2719f08c.js">
 		<link rel="modulepreload" href="/./_app/chunks/vendor-75000c6b.js">
 		<link rel="modulepreload" href="/./_app/pages/__layout.svelte-15559f5b.js">
-		<link rel="modulepreload" href="/./_app/pages/index.svelte-66703b72.js">
+		<link rel="modulepreload" href="/./_app/pages/index-old.svelte-a65a8db6.js">
 		<link rel="stylesheet" href="/./_app/assets/start-a8cd1609.css">
 		<link rel="stylesheet" href="/./_app/assets/pages/__layout.svelte-b6080d11.css">
-		<link rel="stylesheet" href="/./_app/assets/pages/index.svelte-7bc2084e.css">
+		<link rel="stylesheet" href="/./_app/assets/pages/index-old.svelte-4cb737af.css">
 
 		<script type="module">
 			import { start } from "/./_app/start-2719f08c.js";
@@ -32,11 +32,11 @@
 					error: null,
 					nodes: [
 						import("/./_app/pages/__layout.svelte-15559f5b.js"),
-						import("/./_app/pages/index.svelte-66703b72.js")
+						import("/./_app/pages/index-old.svelte-a65a8db6.js")
 					],
 					page: {
 						host: location.host, // TODO this is redundant
-						path: "/",
+						path: "/index-old",
 						query: new URLSearchParams(""),
 						params: {}
 					}
@@ -73,10 +73,17 @@
 	</div>
         <div class="navbar-end"></div>
 </div></nav></header>
-	<div class="container"><div class="la-index"><div class="la-lli svelte-zop7qt"><img src="/lli800x600.png" alt="live life illuminated" class="svelte-zop7qt"></div>
-	
-	
-</div></div>
+	<div class="container"><main class="svelte-yeuymr"><a href="/bulma-demo" class="button is-primary">goto demo page</a>
+	<h1 class="svelte-yeuymr">Hello world!</h1>
+	<p class="svelte-yeuymr">this is a test</p>
+	<p class="svelte-yeuymr">Hello there
+	</p>
+
+	<button class="svelte-2gtjl0">Clicks: 0
+</button>
+
+	<p class="svelte-yeuymr">Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte apps.</p>
+</main></div>
 
 	<footer></footer>
 </main>

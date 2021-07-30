@@ -15,7 +15,7 @@
         <div class="navbar-start">
             <a href="" class="navbar-item"> Home </a>
 
-            <a href="/" class="navbar-item"> Documentation </a>
+            <a href="" class="navbar-item"> Documentation </a>
 
             <div class="navbar-item has-dropdown is-hoverable">
                 <a href="" class="navbar-link"> More </a>
