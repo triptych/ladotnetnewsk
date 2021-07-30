@@ -4,7 +4,7 @@
             <img src="https://bulma.io/images/bulma-logo.png" alt="bulma-logo" width="112" height="28" />
         </a>
 
-        <a href="/home" role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <a href="" role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
             <span aria-hidden="true" />
             <span aria-hidden="true" />
             <span aria-hidden="true" />
@@ -13,19 +13,19 @@
 
     <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-start">
-            <a href="/home" class="navbar-item"> Home </a>
+            <a href="" class="navbar-item"> Home </a>
 
-            <a href="/docs" class="navbar-item"> Documentation </a>
+            <a href="/" class="navbar-item"> Documentation </a>
 
             <div class="navbar-item has-dropdown is-hoverable">
-                <a href="/more" class="navbar-link"> More </a>
+                <a href="" class="navbar-link"> More </a>
 
                 <div class="navbar-dropdown">
-                    <a href="/about" class="navbar-item"> About </a>
-                    <a href="/jobs" class="navbar-item"> Jobs </a>
-                    <a href="/contact" class="navbar-item"> Contact </a>
+                    <a href="" class="navbar-item"> About </a>
+                    <a href="" class="navbar-item"> Jobs </a>
+                    <a href="" class="navbar-item"> Contact </a>
                     <hr class="navbar-divider" />
-                    <a href="/report-issue" class="navbar-item"> Report an issue </a>
+                    <a href="" class="navbar-item"> Report an issue </a>
                 </div>
             </div>
         </div>
