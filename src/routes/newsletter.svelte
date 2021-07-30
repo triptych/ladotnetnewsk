@@ -17,7 +17,13 @@
                 I believe Readers are friends I haven't met yet, so rest 
                 assured I'll never take up too much of your time and I'll 
                 make it fun and worthwhile. Live Life Illuminated! </p>
-            <form method="post" action="https://sendfox.com/form/1gjwk0/36j46j" class="sendfox-form" id="36j46j" data-async="true" data-recaptcha="true">
+            <form 
+                method="post" 
+                action="https://sendfox.com/form/1gjwk0/36j46j" 
+                class="sendfox-form" 
+                id="36j46j" 
+                data-async="true" 
+                data-recaptcha="true">
                 <p><input 
                     type="email" 
                     class="input"
