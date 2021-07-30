@@ -23,7 +23,7 @@
                 class="sendfox-form" 
                 id="36j46j" 
                 data-async="true" 
-                data-recaptcha="true">
+                data-recaptcha="false">
                 <p><input 
                     type="email" 
                     class="input"
