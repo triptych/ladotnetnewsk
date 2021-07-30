@@ -1,10 +1,11 @@
 <div class="la-books">
 	<div class="columns">
 		<div class="column">
+
 			<div class="book-item">
-				<p>Contributed to:</p>
-				<a href="https://www.amazon.com/gp/product/B004ZEN05Y/"
-					><img src="/books/51JMI3x9yiL.jpg" alt="" /></a
+				<p>Coming soon! The Cozy Cat Bookstore Mysteries: The Secret Circle</p>
+				<a href="#"
+					><img src="/books/Front-Cover-Only-01.jpg" alt="" /></a
 				>
 			</div>
 		</div>
@@ -44,9 +45,9 @@
 		</div>
 		<div class="column">
 			<div class="book-item">
-				<p>Coming soon! The Cozy Cat Bookstore Mysteries: The Secret Circle</p>
-				<a href="#"
-					><img src="/books/997851176.jpg" alt="" /></a
+				<p>Contributed to:</p>
+				<a href="https://www.amazon.com/gp/product/B004ZEN05Y/"
+					><img src="/books/51JMI3x9yiL.jpg" alt="" /></a
 				>
 			</div>
 		</div>
