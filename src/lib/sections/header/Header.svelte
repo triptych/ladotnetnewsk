@@ -2,7 +2,7 @@
     import Social from '$lib/sections/social/Social.svelte';    
 </script>
 <div class="la-header">
-    <h1><a href="."><img src="law002.png" alt="lisa-anne-wooldridge"/></a></h1>
+    <h1><a href="."><img src="/law002.png" alt="lisa-anne-wooldridge"/></a></h1>
     <Social/>
 </div>
 <style>
