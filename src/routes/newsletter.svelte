@@ -2,8 +2,8 @@
 
     <div class="columns">
         <div class="column is-half">
-            <figure class="image is-3by2">
-                <img src="/flowers.jpg" alt="flowers" class="newsletter-flower"/>              
+            <figure class="image is-3by3">
+                <img src="/home/LIsa-Anne-Just-released2-01.jpg" alt="flowers" class="newsletter-flower"/>              
             </figure>           
         </div>
         <div class="column">

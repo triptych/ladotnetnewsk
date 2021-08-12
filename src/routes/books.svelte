@@ -3,9 +3,9 @@
 		<div class="column">
 
 			<div class="book-item">
-				<p>Coming soon! The Cozy Cat Bookstore Mysteries: The Secret Circle</p>
-				<a href="#"
-					><img src="/books/Front-Cover-Only-01.jpg" alt="" /></a
+				<p>The Cozy Cat Bookstore Mysteries: The Secret Circle</p>
+				<a href="https://www.amazon.com/dp/1737329506?ref_=pe_3052080_397514860"
+					><img src="/books/cover-secret-001.jpeg" alt="" /></a
 				>
 			</div>
 		</div>

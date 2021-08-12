@@ -2,7 +2,7 @@
 <div class="la-index">
 	<div class="la-lli">
 		<img src="/lli800x600.png" alt="live life illuminated"/><br/>
-		<img src="/LIsa-Anne-Coming-Soon3-01.jpg" alt="live life illuminated"/>
+		<img src="/home/LIsa-Anne-Just-released1-01.jpg" alt="live life illuminated"/>
 	</div>
 	
 	
