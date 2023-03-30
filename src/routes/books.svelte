@@ -3,6 +3,15 @@
 		<div class="column">
 
 			<div class="book-item">
+				<p>The Cozy Cat Bookstore Mysteries: The Rose and Crown</p>
+				<a href="https://www.amazon.com/dp/B0BRW2DS6P?ref_=cm_sw_r_cp_ud_dp_97ZNP07D2JE2PQYK3RZZ"
+					><img src="/books/Rose-and-Crown-ebook-cover.png" alt="" /></a
+				>
+			</div>
+		</div>		
+		<div class="column">
+
+			<div class="book-item">
 				<p>The Cozy Cat Bookstore Mysteries: The Secret Circle</p>
 				<a href="https://www.amazon.com/dp/1737329506?ref_=pe_3052080_397514860"
 					><img src="/books/cover-secret-001.jpeg" alt="" /></a
