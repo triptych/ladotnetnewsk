@@ -4,11 +4,15 @@
 		<img src="/lli800x600.png" alt="live life illuminated"/><br/>
 		<!--<img src="/home/LIsa-Anne-Just-released1-01.jpg" alt="live life illuminated"/>-->
 	</div>
-	<div class="la-book">
+	<div class="la-book"> 
+		<h2 style="font-weight: bold; font-size: 1.5em;"> Just released! </h2>
 		<figure class='image is-3x3'>
-			<a href="https://www.amazon.com/dp/1737329506?ref_=pe_3052080_397514860"><img 
-				src='/home/LIsa-Anne-Just-released1-01.jpg' alt="The Secret Circle"></a>
+			<a href="https://www.amazon.com/dp/B09C85GR9K?binding=kindle_edition&ref=dbs_dp_sirpi--"><img 
+				src='/books/Cozy-Cat-Series-Banner.jpg' alt="The Secret Circle"></a>
 		</figure>
+	</div>
+	<div style="height: 100px;">
+
 	</div>
 	<!-- <div class='column is-half'>
 		<div class='card equal-height'>
